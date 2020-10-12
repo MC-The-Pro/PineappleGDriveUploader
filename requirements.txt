@@ -1,0 +1,16 @@
+pip
+google-api-python-client
+oauthlib
+idna
+setuptools
+uritemplate
+rsa
+pyasn1
+pytz
+six
+cachetools
+certifi
+urllib3
+requests
+chardet
+httplib2
