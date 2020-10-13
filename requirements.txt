@@ -1,5 +1,6 @@
 pip
 google-api-python-client
+google_auth_oauthlib
 oauthlib
 idna
 setuptools
